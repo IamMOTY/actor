@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;project {file:/Users/iammoty/Yandex.Disk.localized/study/ppo/actor/}actor; startServer, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(project {file:/Users/iammoty/Yandex.Disk.localized/study/ppo/actor/}actor, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mset current project to actor (in build file:/Users/iammoty/Yandex.Disk.localized/study/ppo/actor/)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(startServer, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0msbt server started at local:///Users/iammoty/.sbt/1.0/server/3afd53ae78bea55428f8/sock[0m
+[0m[[0m[0mdebug[0m] [0m[0mWriting bsp connection file[0m
+[0m[[0m[0minfo[0m] [0m[0mstarted sbt server[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="first-lab" />
+    <profile name="sbt 2" modules="actor,actors">
+      <option name="deprecationWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <option name="explainTypeErrors" value="true" />
+      <parameters>
+        <parameter value="-Xfatal-warnings" />
+        <parameter value="-Ymacro-annotations" />
+      </parameters>
+    </profile>
+  </component>
+</project>

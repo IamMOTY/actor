@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec({file:/Users/iammoty/Yandex.Disk.localized/study/ppo/actor/}actor/test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /Users/iammoty/Yandex.Disk.localized/study/ppo/actor/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mdone compiling[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStubServerTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sample test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no search systems[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- all requests exceed time out[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- bing exceeds time out[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 11 seconds, 365 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 12 s, completed Apr 10, 2023, 4:55:15 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
